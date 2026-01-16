@@ -5,7 +5,7 @@
 
 Real-time IoT network attack detection and classification using machine learning models on the CICIDS2017 dataset.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](C:/Users/anany/Downloads/iot_attack_detection_dashboard_UPDATED.html)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](file:///C:/Users/anany/Downloads/iot_attack_detection_dashboard_UPDATED.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Project Overview
