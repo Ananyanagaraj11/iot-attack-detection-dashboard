@@ -5,8 +5,6 @@ This project implements a comprehensive machine learning-based intrusion detecti
 
 ## Authors
 - Ananya Naga Raj (annagara@syr.edu)
-- Abhijnya Konanduru Gurumurthy (akonandu@syr.edu)
-- Amulya Naga Raj (amnagara@syr.edu)
 
 Syracuse University - College of Engineering and Computer Science
 Graduate Research Project - Fall 2025
@@ -596,4 +594,5 @@ For questions or collaboration:
 [6] S. Lundberg and S. Lee, "A unified approach to interpreting model predictions," in Advances in Neural Information Processing Systems (NIPS), 2017.
 
 ## Version History
+
 - **v1.0** (November 2025): Initial release with 6 models, SHAP analysis, and interactive dashboard
